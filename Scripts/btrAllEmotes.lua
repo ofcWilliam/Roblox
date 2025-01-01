@@ -6,7 +6,7 @@
 --(changed size of GUI to be out of the way) - Psycho
 --(adjusted a few colors) - Psycho
 --(made GUI bigger and moved it back in the middle) - 1xOfcWilliam
---(adjusted a few more colors with the GUI) -- 1xOfcWilliam
+--(adjusted a few more colors in the GUI) -- 1xOfcWilliam
 
 local IsStudio = false
 
